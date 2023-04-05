@@ -1,2 +1,2 @@
 # rasplus-rest
-API Rest para atender as demandas do cliente Rasmoo Plus
+API Rest to meet the requirements of the Rasmoo Plus client.
